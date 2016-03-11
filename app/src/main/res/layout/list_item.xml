@@ -4,6 +4,7 @@
     android:layout_height="wrap_content"
     android:padding="@dimen/activity_horizontal_margin"
     android:gravity="center"
+    android:id="@+id/itemLista"
     android:background="?attr/selectableItemBackground"
     android:orientation="horizontal">
 

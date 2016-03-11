@@ -42,4 +42,8 @@ public class ProjetoPlanetasApplication extends Application {
         planetas.add(planetas.get(cont));
         cont++;
     }
+
+    public void removerPlaneta(int position) {
+        planetas.remove(position);
+    }
 }
